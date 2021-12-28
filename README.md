@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @bluerock10
-- 👀 I’m interested in learning and creating cool projects
-- 🌱 I’m currently learning multiple programming languages and softwares
-- 💞️ I’m looking to collaborate on development projects
-- 📫 How to reach me: drop me a mail!
+- 👋 Hi, I’m @ipshagupta
 
 <!---
 bluerock10/bluerock10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
