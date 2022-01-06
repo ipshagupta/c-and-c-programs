@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ipshagupta
-- This is file for C++ coding.
+- This is a file for C++ coding.
 
 <!---
 bluerock10/bluerock10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
